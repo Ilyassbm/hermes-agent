@@ -1,19 +1,19 @@
 name: hermes-ui
 repo: https://github.com/Ilyassbm/hermes-ui
-sha: a35031e924aa4a5f96a1edd81855a3ff82ad920d
+sha: fe63941484dba79e3e3ea480ffb864e7e16d19b0
 description: A bespoke chat workspace for Hermes Desktop and the Webapp — bots rail, live activity, rich replies, slash commands, per-bot models and a settings page.
 maintainer: Ilyass Bm
 tier: community
 category: desktop
 requires_hermes: ">=0.23"
 docs_url: https://github.com/Ilyassbm/hermes-ui#readme
-version: "1.3.8"
-image: https://raw.githubusercontent.com/Ilyassbm/hermes-ui/a35031e924aa4a5f96a1edd81855a3ff82ad920d/docs/screenshots/01-chat.jpg
+version: "1.3.9"
+image: https://raw.githubusercontent.com/Ilyassbm/hermes-ui/fe63941484dba79e3e3ea480ffb864e7e16d19b0/docs/screenshots/01-chat.jpg
 screenshots:
-  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/a35031e924aa4a5f96a1edd81855a3ff82ad920d/docs/screenshots/01-chat.jpg
-  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/a35031e924aa4a5f96a1edd81855a3ff82ad920d/docs/screenshots/02-model.jpg
-  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/a35031e924aa4a5f96a1edd81855a3ff82ad920d/docs/screenshots/03-usage.jpg
-  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/a35031e924aa4a5f96a1edd81855a3ff82ad920d/docs/screenshots/04-settings.jpg
+  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/fe63941484dba79e3e3ea480ffb864e7e16d19b0/docs/screenshots/01-chat.jpg
+  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/fe63941484dba79e3e3ea480ffb864e7e16d19b0/docs/screenshots/02-model.jpg
+  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/fe63941484dba79e3e3ea480ffb864e7e16d19b0/docs/screenshots/03-usage.jpg
+  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/fe63941484dba79e3e3ea480ffb864e7e16d19b0/docs/screenshots/04-settings.jpg
 readme: true
 platforms: []
 title: Hermes UI
