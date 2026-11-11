@@ -1,24 +1,24 @@
 # Entry for NousResearch/hermes-agent: plugin-catalog/hermes-ui.yaml
 # Ready to copy to that path in a fork of NousResearch/hermes-agent, then open the pull request.
-# Pinned to hermes-ui 1.3.11, commit 8f5e48ee6c52f59ab72cae3200cd314571ee1752.
+# Pinned to hermes-ui 1.3.12, commit aa968d0ad13c1ea62d40b4d5ba1c39044f256b0e.
 # Docs: https://hermes-agent.nousresearch.com/docs/developer-guide/plugins/catalog-submission
 
 name: hermes-ui
 repo: https://github.com/Ilyassbm/hermes-ui
-sha: 8f5e48ee6c52f59ab72cae3200cd314571ee1752
+sha: aa968d0ad13c1ea62d40b4d5ba1c39044f256b0e
 description: A bespoke chat workspace for Hermes Desktop and the Webapp — bots rail, live activity, rich replies, slash commands, per-bot models and a settings page.
 maintainer: Ilyass Bm
 tier: community
 category: desktop
 requires_hermes: ">=0.23"
 docs_url: https://github.com/Ilyassbm/hermes-ui#readme
-version: "1.3.11"
-image: https://raw.githubusercontent.com/Ilyassbm/hermes-ui/8f5e48ee6c52f59ab72cae3200cd314571ee1752/docs/screenshots/01-chat.jpg
+version: "1.3.12"
+image: https://raw.githubusercontent.com/Ilyassbm/hermes-ui/aa968d0ad13c1ea62d40b4d5ba1c39044f256b0e/docs/screenshots/01-intelligent-ui.jpg
 screenshots:
-  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/8f5e48ee6c52f59ab72cae3200cd314571ee1752/docs/screenshots/01-chat.jpg
-  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/8f5e48ee6c52f59ab72cae3200cd314571ee1752/docs/screenshots/02-model.jpg
-  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/8f5e48ee6c52f59ab72cae3200cd314571ee1752/docs/screenshots/03-usage.jpg
-  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/8f5e48ee6c52f59ab72cae3200cd314571ee1752/docs/screenshots/04-settings.jpg
+  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/aa968d0ad13c1ea62d40b4d5ba1c39044f256b0e/docs/screenshots/01-intelligent-ui.jpg
+  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/aa968d0ad13c1ea62d40b4d5ba1c39044f256b0e/docs/screenshots/04-approval.jpg
+  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/aa968d0ad13c1ea62d40b4d5ba1c39044f256b0e/docs/screenshots/02-table.jpg
+  - https://raw.githubusercontent.com/Ilyassbm/hermes-ui/aa968d0ad13c1ea62d40b4d5ba1c39044f256b0e/docs/screenshots/09-settings.jpg
 readme: true
 platforms: []
 title: Hermes UI
