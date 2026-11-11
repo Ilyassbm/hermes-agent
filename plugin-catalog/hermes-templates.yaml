@@ -1,0 +1,19 @@
+name: hermes-templates
+repo: https://github.com/Ilyassbm/hermes-templates
+sha: 46889b9f9e9f00c147ad4f98a72bf39367346472
+subdir: ""
+description: "One-click share and install of a whole Hermes agent as a single .htemplate bundle — identity, skills, routines, MCP servers, published memories and plugin ids; credentials, sessions and history never travel."
+maintainer: Ilyassbm
+tier: community
+category: desktop
+requires_hermes: ">=0.23"
+version: "1.1.0"
+screenshots:
+  - https://raw.githubusercontent.com/Ilyassbm/hermes-templates/46889b9f9e9f00c147ad4f98a72bf39367346472/docs/share-tab.png
+  - https://raw.githubusercontent.com/Ilyassbm/hermes-templates/46889b9f9e9f00c147ad4f98a72bf39367346472/docs/install-tab.png
+readme: true
+capabilities:
+  provides_tools: []
+  provides_hooks: []
+  provides_middleware: []
+  requires_env: []
